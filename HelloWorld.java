@@ -10,5 +10,12 @@ class HelloWorld
         b=5
         c=a+b
             System.out.println(c)
+       
+            c=a-b
+            System.out.println(c);
+        banana
+            pine apple
+            apple
+            
     }
 }
