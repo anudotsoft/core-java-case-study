@@ -1,0 +1,5 @@
+capgemini
+tcs
+ibm
+techm
+wipro
